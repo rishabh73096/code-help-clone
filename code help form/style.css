@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.box{
+    position: fixed;
+    top: 10%;
+    left: 35%;
+    padding: 20px;
+    margin: 40px;
+    border: 2px solid rgba(8, 8, 8, 0.1);
+}
+.main-heading{
+    color: black;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.content{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.name{
+    line-height: 25px;
+    padding-left: 7px;
+    width: 350px;
+    height: 38px;
+}
+.password{
+    line-height: 25px;
+    padding-left: 7px;
+    margin-top: 20px;
+    width: 350px;
+    height: 38px;
+}
+.email{
+    line-height: 25px;
+    padding-left: 7px;
+    margin-top: 20px;
+    width: 350px;
+    height: 38px;
+}
+.btn{
+    margin-bottom: 20px;
+}
+.gmail{
+    color: black;
+}
+.btn-10{
+    color: white;
+    background-color: blue;
+}
+.btn-11{
+    color: white;
+    background-color: rgb(12, 12, 13);
+}
+.btn-1{
+width: 350px;
+height: 38px;
+line-height: 35px;
+cursor: pointer;
+}
+.text{
+    line-height: 20px;
+}
+.para-1{
+    text-align: center;
+    align-items: center;
+    line-height: 20px;
+}
+.para-2{
+    text-align: center;
+    font-weight: 200;
+    color: rgb(158, 134, 134);
+    font-size: 0.7rem;
+    line-height: 20px;
+}
+.bottom{
+    text-align: center;
+    font-size: 0.9rem;
+    line-height: 20px;
+    margin-top:15px;
+}

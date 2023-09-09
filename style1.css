@@ -1,0 +1,63 @@
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        text-decoration: none;
+        list-style: none;
+    }
+    body
+    .box{
+        position: fixed;
+        top: 25%;
+        left: 35%;
+        padding: 20px;
+        margin: 40px;
+        border: 2px solid rgba(8, 8, 8, 0.1);
+    }
+    .main-heading{
+        margin-top: 20px;
+        color: black;
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .btn{
+        display: flex;
+        gap: 20px;
+        text-align: center;
+        border: none; /* Remove borders */
+        color: white; /* White text */
+        /* Some padding */
+        font-size: 16px; /* Set a font size */
+        cursor: pointer; /* Mouse pointer on hover */
+    }
+    .btn-1{
+        margin-top: 10px;
+        cursor: pointer;
+        color: black;
+    }
+    .btn-2{
+        cursor: pointer;
+        background-color: black;
+        margin-bottom:20px;
+        margin-top: 20px;
+    }
+    button{
+       
+        width: 350px;
+        line-height: 20px;
+
+    }
+    .para-1{
+        color: rgb(57, 41, 41);
+        margin-top: 20px;
+        text-align: center;
+        align-items: center;
+        line-height: 20px;
+    }
+.sign-up{
+    font-weight: 700;
+    color: black;
+}
+    
+   

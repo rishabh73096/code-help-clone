@@ -1,0 +1,13 @@
+@media screen and (max-width:991px) {
+    .burger{
+        display: block;
+        margin-right: 20px;
+    
+    }
+    .nav-links{
+        display: none;
+    }
+    .div-btn{
+        display: none;
+    }
+}
